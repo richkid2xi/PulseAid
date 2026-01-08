@@ -2,7 +2,7 @@
 
 A modern, responsive landing page for PulseAid, built with React, TypeScript, and Tailwind CSS.
 
-![PulseAid Landing Page]
+[PulseAid Landing Page]
 
 ## 🌟 Overview
 
