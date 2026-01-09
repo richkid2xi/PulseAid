@@ -2,7 +2,7 @@
 
 A modern, responsive landing page for PulseAid, built with React, TypeScript, and Tailwind CSS.
 
-![PulseAid Landing Page]
+[PulseAid Landing Page]
 
 ## 🌟 Overview
 
@@ -38,8 +38,8 @@ PulseAid connects verified institutions—such as orphanages, hospitals, and car
 4. **Meet Our Team**
    - 3 team member profiles
    - Richard Elikem Amenorpe (Founder & CEO)
-   - Vanessa Ofosu Gyanewa (Operations Lead)
-   - Kelvin Afful (Tech & Design Lead)
+   - Andy Yaw Nkrumah (Operations Lead)
+   - Random (Tech & Design Lead)
    - LinkedIn and email links for each member
 
 5. **Vision & Mission**
