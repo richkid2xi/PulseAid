@@ -9,9 +9,9 @@ export const IMAGES = {
 
   // Team Members
   team: {
-    richard: '/team/richard.jpg',
-    vanessa: '/team/andy.jpg',
-    kelvin: '/team/random.jpg',
+    richard: '/team/richard.png',
+    vanessa: '/team/andy.png',
+    kelvin: '/team/edmund.png',
   },
 
   // How It Works Section

@@ -525,7 +525,7 @@ function App() {
 
           <div className="max-w-4xl mx-auto space-y-6 mb-12 scroll-reveal">
             <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
-              PulseAid connects verified institutions—such as orphanages, hospitals, and care centers—with donors and volunteers. Our mission is to make giving simple, transparent, and impactful, ensuring every act of support reaches the people who need it most.
+              PulseAid connects verified institutions such as orphanages, hospitals, and care centers with donors and volunteers. Our mission is to make giving simple, transparent, and impactful, ensuring every act of support reaches the people who need it most.
             </p>
             <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
               Many institutions struggle to gain visibility, and donors often lack trusted channels to help. PulseAid solves this by providing a centralized platform where needs are posted, tracked, and fulfilled with full accountability.
@@ -676,7 +676,7 @@ function App() {
                 />
               </div>
               <div className="p-6">
-                <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-1">Random Person</h3>
+                <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-1">Edmund K. Pereira</h3>
                 <p className="text-primary dark:text-primary-300 font-semibold mb-3">Tech & Design Lead</p>
                 <p className="text-gray-600 dark:text-gray-300 mb-4 leading-relaxed">
                   "Designs intuitive tools that make helping simple, fast, and transparent."
