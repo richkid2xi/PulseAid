@@ -671,7 +671,7 @@ function App() {
               <div className="h-64 overflow-hidden">
                 <img 
                   src={IMAGES.team.kelvin} 
-                  alt="Random Person"
+                  alt="Edmund K. Pereira"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
                 />
               </div>
@@ -690,7 +690,7 @@ function App() {
                     <span className="text-sm font-medium">LinkedIn</span>
                   </a>
                   <a
-                    href="#"
+                    href="mailto:edmundpereira18@gmail.com"
                     className="flex items-center space-x-2 text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary-300 transition-all duration-300 hover:scale-110"
                   >
                     <Mail className="w-5 h-5" />
@@ -1098,8 +1098,8 @@ function App() {
               <ul className="space-y-3">
                 <li className="flex items-center space-x-2">
                   <Mail className="w-4 h-4 text-gray-400" />
-                  <a href="mailto:richardelikem31@gmail.com" className="text-gray-400 hover:text-white transition">
-                    richardelikem31@gmail.com
+                  <a href="mailto:hello.pulseaid@gmail.com" className="text-gray-400 hover:text-white transition">
+                    hello.pulseaid@gmail.com
                   </a>
                 </li>
                 <li className="flex items-center space-x-2">
@@ -1118,7 +1118,7 @@ function App() {
               <h4 className="font-bold text-lg mb-4">Follow Us</h4>
               <div className="flex space-x-4">
                 <a
-                  href="https://www.linkedin.com/in/richard-amenorpe"
+                  href="https://www.linkedin.com/company/110814731/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 bg-gray-800 dark:bg-gray-700 hover:bg-primary dark:hover:bg-primary-500 rounded-full flex items-center justify-center transition-all duration-300 hover:scale-110 hover:rotate-6"
@@ -1126,19 +1126,15 @@ function App() {
                   <Linkedin className="w-5 h-5" />
                 </a>
                 <a
-                  href="#"
+                  href="https://x.com/pulseaid_hq"
+                  target="_blank"
                   className="w-10 h-10 bg-gray-800 dark:bg-gray-700 hover:bg-primary dark:hover:bg-primary-500 rounded-full flex items-center justify-center transition-all duration-300 hover:scale-110 hover:rotate-6"
                 >
                   <Twitter className="w-5 h-5" />
                 </a>
                 <a
-                  href="#"
-                  className="w-10 h-10 bg-gray-800 dark:bg-gray-700 hover:bg-primary dark:hover:bg-primary-500 rounded-full flex items-center justify-center transition-all duration-300 hover:scale-110 hover:rotate-6"
-                >
-                  <Facebook className="w-5 h-5" />
-                </a>
-                <a
-                  href="#"
+                  href="https://www.instagram.com/pulseaid_hq/"
+                  target="_blank"
                   className="w-10 h-10 bg-gray-800 dark:bg-gray-700 hover:bg-primary dark:hover:bg-primary-500 rounded-full flex items-center justify-center transition-all duration-300 hover:scale-110 hover:rotate-6"
                 >
                   <Instagram className="w-5 h-5" />
