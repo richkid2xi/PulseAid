@@ -11,7 +11,6 @@ import {
   MapPin,
   Linkedin,
   Twitter,
-  Facebook,
   Instagram,
   Menu,
   X,
