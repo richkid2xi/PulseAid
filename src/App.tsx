@@ -634,19 +634,19 @@ function App() {
               <div className="h-64 overflow-hidden">
                 <img 
                   src={IMAGES.team.vanessa} 
-                  alt="Andy Yaw Nkrumah"
+                  alt="Dela Christlieb"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
                 />
               </div>
               <div className="p-6">
-                <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-1">Andy Yaw Nkrumah</h3>
-                <p className="text-primary dark:text-primary-300 font-semibold mb-3">Operations Lead</p>
+                <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-1">Dela Christlieb</h3>
+                <p className="text-primary dark:text-primary-300 font-semibold mb-3">Development Lead</p>
                 <p className="text-gray-600 dark:text-gray-300 mb-4 leading-relaxed">
-                  "Ensures every institution is verified and every need is tracked efficiently."
+                  "I chargeof all the development operations of PulseAid"
                 </p>
                 <div className="flex space-x-3">
                   <a
-                    href="https://www.linkedin.com/in/andy-nkrumah-939b3a322/"
+                    href="https://www.linkedin.com/in/christlieb-d-776818253/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center space-x-2 text-primary dark:text-primary-300 hover:text-primary-600 dark:hover:text-primary-400 transition-all duration-300 hover:scale-110"
@@ -655,7 +655,7 @@ function App() {
                     <span className="text-sm font-medium">LinkedIn</span>
                   </a>
                   <a
-                    href="mailto:andynkrumah95@gmail.com"
+                    href="mailto:christliebdela@gmail.com"
                     className="flex items-center space-x-2 text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary-300 transition-all duration-300 hover:scale-110"
                   >
                     <Mail className="w-5 h-5" />
@@ -670,26 +670,26 @@ function App() {
               <div className="h-64 overflow-hidden">
                 <img 
                   src={IMAGES.team.kelvin} 
-                  alt="Edmund K. Pereira"
+                  alt="Sylvester Ogbu"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
                 />
               </div>
               <div className="p-6">
-                <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-1">Edmund K. Pereira</h3>
-                <p className="text-primary dark:text-primary-300 font-semibold mb-3">Tech & Design Lead</p>
+                <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-1">Sylvester Ogbu</h3>
+                <p className="text-primary dark:text-primary-300 font-semibold mb-3">Design Lead</p>
                 <p className="text-gray-600 dark:text-gray-300 mb-4 leading-relaxed">
                   "Designs intuitive tools that make helping simple, fast, and transparent."
                 </p>
                 <div className="flex space-x-3">
                   <a
-                    href="#"
+                    href="https://www.linkedin.com/in/ogonna-sylvester-ogbu-b10680357/"
                     className="flex items-center space-x-2 text-primary dark:text-primary-300 hover:text-primary-600 dark:hover:text-primary-400 transition-all duration-300 hover:scale-110"
                   >
                     <Linkedin className="w-5 h-5" />
                     <span className="text-sm font-medium">LinkedIn</span>
                   </a>
                   <a
-                    href="mailto:edmundpereira18@gmail.com"
+                    href="mailto:ogbuogonnasylvester@gmail.com"
                     className="flex items-center space-x-2 text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary-300 transition-all duration-300 hover:scale-110"
                   >
                     <Mail className="w-5 h-5" />
