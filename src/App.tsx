@@ -642,7 +642,7 @@ function App() {
                 <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-1">Dela Christlieb</h3>
                 <p className="text-primary dark:text-primary-300 font-semibold mb-3">Development Lead</p>
                 <p className="text-gray-600 dark:text-gray-300 mb-4 leading-relaxed">
-                  "I lead development and product execution at PulseAid. Passionate about building platforms that improve lives and strengthen trust between helpers and institutions."
+                  "Team lead for development and product execution at PulseAid. Passionate about building platforms that improve lives and strengthen trust between helpers and institutions."
                 </p>
                 <div className="flex space-x-3">
                   <a
