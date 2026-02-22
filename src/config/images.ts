@@ -10,8 +10,8 @@ export const IMAGES = {
   // Team Members
   team: {
     richard: '/team/richard.png',
-    vanessa: '/team/andy.png',
-    kelvin: '/team/edmund.png',
+    vanessa: '/team/dela.png',
+    kelvin: '/team/ogbu.png',
   },
 
   // How It Works Section
