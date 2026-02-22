@@ -633,7 +633,7 @@ function App() {
             <div className="bg-white dark:bg-gray-700 rounded-xl shadow-md overflow-hidden hover:shadow-xl transition-all duration-300 group interactive-card scroll-reveal transform hover:-translate-y-2">
               <div className="h-64 overflow-hidden">
                 <img 
-                  src={IMAGES.team.dela} 
+                  src={IMAGES.team.kelvin} 
                   alt="Dela Christlieb"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
                 />
@@ -669,7 +669,7 @@ function App() {
             <div className="bg-white dark:bg-gray-700 rounded-xl shadow-md overflow-hidden hover:shadow-xl transition-all duration-300 group interactive-card scroll-reveal transform hover:-translate-y-2">
               <div className="h-64 overflow-hidden">
                 <img 
-                  src={IMAGES.team.ogbu} 
+                  src={IMAGES.team.vanessa} 
                   alt="Sylvester Ogbu"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
                 />
