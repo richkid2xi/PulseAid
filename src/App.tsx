@@ -1147,9 +1147,8 @@ function App() {
             <p className="text-gray-400 text-sm mb-4 md:mb-0">
               © 2025 PulseAid. All rights reserved.
             </p>
-            <a
-              href="https://elitech-creatives.netlify.app/"
-              target="_blank"
+            <a href="https://elitech-creatives.netlify.app/"
+             target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-white text-sm transition"
             >
