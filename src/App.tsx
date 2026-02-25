@@ -1148,7 +1148,7 @@ function App() {
               © 2025 PulseAid. All rights reserved.
             </p>
             <a
-              href="#"
+              href="https://elitech-creatives.netlify.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-white text-sm transition"
